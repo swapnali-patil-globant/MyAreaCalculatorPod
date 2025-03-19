@@ -50,7 +50,7 @@
 		E42C51CA2D8A9DFF00F79889 = {
 			isa = PBXGroup;
 			children = (
-				E42C51DF2D8A9E0F00F79889 /* AreaCalculator.swift */,
+				E42C51E12D8AAF7000F79889 /* Classes */,
 				E42C51D62D8A9E0000F79889 /* MyAreaCalculatorPod */,
 				E42C51D52D8A9E0000F79889 /* Products */,
 			);
@@ -62,6 +62,14 @@
 				E42C51D42D8A9E0000F79889 /* MyAreaCalculatorPod.framework */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		E42C51E12D8AAF7000F79889 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				E42C51DF2D8A9E0F00F79889 /* AreaCalculator.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
