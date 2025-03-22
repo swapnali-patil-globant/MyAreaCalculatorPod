@@ -8,11 +8,11 @@
 import Foundation
 
 public class AreaCalculator {
-    public func calculatorSquareArea(side: Double) -> Double {
+    public static func calculatorSquareArea(side: Double) -> Double {
         return side * side
     }
     
-    public func calculateRectabgleArea(length: Double, breadth: Double) -> Double {
+    public static func calculateRectabgleArea(length: Double, breadth: Double) -> Double {
         return length * breadth
     }
 }
